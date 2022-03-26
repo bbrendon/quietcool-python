@@ -1,1 +1,1 @@
-aiocoap
+aiocoap==0.3
