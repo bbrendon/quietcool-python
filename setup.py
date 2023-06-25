@@ -9,7 +9,7 @@ setup(name='quietcool',
       license='ASL',
       packages=['quietcool'],
       install_requires=[
-          'aiocoap==0.3',
+          'aiocoap==0.4.7',
       ],
       zip_safe=False,
       )
